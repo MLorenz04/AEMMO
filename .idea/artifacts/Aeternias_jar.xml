@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Aeternias:jar">
+    <output-path>$PROJECT_DIR$/../../../../Plugins</output-path>
+    <root id="archive" name="Aeternias.jar">
+      <element id="module-output" name="Aeternias" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+name: Aeternias
+version: '${project.version}'
+main: aeternias.aeternias.Aeternias
+api-version: 1.19
+commands:
+    aemmo:
+      description: Příkaz na zobrazení statistik
+      usage: /aemmo
+    mining:
+      description: Příkaz na zobrazení těžení
+      usage: /mining
